@@ -66,9 +66,9 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la [pérennisat
 ## Dès l'arrivée des EIG
 
 
-### Aider les EIG à identifier les bonnes personnes
+### Aider les prestataires à identifier les bonnes personnes
 
-*Aidez les EIG à faire connaissance en personne avec leurs futurs alliés.*
+*Aidez les prestataires à faire connaissance en personne avec leurs futurs alliés.*
 
 - AMD : L'administrateur ministériel des données
 - COD : Le correspondant open data
