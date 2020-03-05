@@ -14,10 +14,10 @@ Cette documentation agrège les détails pratiques (planning, rituels, contribut
 
 ## Bonnes pratiques
 
-- [Ouvrir son code source](./opensource.md)
-- [Comprendre les licences libres](./opensource-licences.md)
-- [Publier et réutiliser des données](./opendata.md)
-- [Définir des indicateurs et mesurer son impact](./mesure-impact.md)
+- [Ouvrir son code source](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md)
+- [Comprendre les licences libres](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-licences.md)
+- [Publier et réutiliser des données](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opendata.md)
+- [Définir des indicateurs et mesurer son impact](https://github.com/entrepreneur-interet-general/eig-link/blob/master/mesure-impact.md)
 
 
 ## Contributions sur ce dépôt
