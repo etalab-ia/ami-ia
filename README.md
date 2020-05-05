@@ -1,5 +1,7 @@
 # À propos du programme Appel à Manifestation d'Intérêt "Intelligence Artificielle" (AMI IA) 
 
+![Image test](./images/ia.jpg) 
+
 Le programme [AMI IA](https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public) est documenté à travers le [dépôt ami-ia](https://github.com/etalab-ia/ami-ia). 
 Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme, à destination de la communauté AMI IA.
 
