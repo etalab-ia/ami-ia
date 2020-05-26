@@ -130,3 +130,7 @@ dmypy.json
 
 #big files
 usefull_docs/
+
+
+# folder idea
+.idea/
