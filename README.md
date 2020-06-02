@@ -1,9 +1,8 @@
-# À propos du programme Appel à Manifestation d'Intérêt "Intelligence Artificielle" (AMI IA) 
+# Ressources du programme Appel à Manifestation d'Intérêt Intelligence Artificielle (AMI IA) 
 
 ![Image test](./images/ia.jpg) 
 
-Le programme [AMI IA](https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public) est documenté à travers le [dépôt ami-ia](https://github.com/etalab-ia/ami-ia). 
-Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme, à destination de la communauté AMI IA.
+Le programme [AMI IA](https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public) accompagne des administrations publiques dans des projets d'expérimentation de l'IA. Ce dépôt regroupe des documents et ressources de ce programme. Cette documentation agrège les détails pratiques (planning, rituels, contributions), les contenus des ateliers du programme, et les bonnes pratiques du programme, à destination de la communauté AMI IA.
 
 
 ## Programme AMI
@@ -33,9 +32,8 @@ Merci !
 
 ## Licence
 
-© 2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
+© 2020 Direction interministérielle du numérique
+© 2020 Les contributeurs accessibles via l'historique du dépôt
 
-© 2018 Les contributeurs accessibles via l'historique du dépôt.
-
-Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENSE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENCE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 
