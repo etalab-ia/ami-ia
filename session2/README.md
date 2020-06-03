@@ -10,7 +10,7 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 
 - **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb)
 
-- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ml.ipynb)
+- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb)
 
 ## TODO
 

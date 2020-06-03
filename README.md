@@ -7,10 +7,12 @@ Le programme [AMI IA](https://www.modernisation.gouv.fr/home/ami-intelligence-ar
 
 ## Programme AMI
 
-- [Le planning du programme](./accompagnement.md)
+- [Le planning](./accompagnement.md) des sessions de formation du programme
 
 
 ## Ressources du programme
+
+- [Guide sur l'accueil des prestataires](./guide-accueil-prestataire.md)
 
 
 ## Bonnes pratiques
@@ -33,7 +35,8 @@ Merci !
 ## Licence
 
 © 2020 Direction interministérielle du numérique
+
 © 2020 Les contributeurs accessibles via l'historique du dépôt
 
-Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENCE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENCE.md). Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 

@@ -1,51 +1,38 @@
-# Atelier 2: Session Formation IA du 2 avril matin 
+# Programme des ateliers de formation techniques
 
-Thème : Vis ma vie de data scientist. 
-L'objectif de cette formation est de présenter les outils de codes du data scientist afin de montrer les différentes étapes d'un projet. 
+L'AMI IA se caractérise aussi par un accompagnement via des sessions de formation. Ce document présente les différents ateliers réalisées et leurs supports.
 
-Idées de notebooks: 
+## Session 1 : Introduction à l'intelligence artificielle, 4 février.
 
-- notebook DataViz: prendre un jeu de données sur data.gouv.fr (alimConfiance par exemple)
-- notebook NLP : exemple de NER avec les décisions de justice
-- notebook modèle prédictif avec données structurées : ex signaux faibles ? 
-- notebook Graphes 
+### Plénière : panorama de l'IA (1h)
 
+- aperçu de cas d'usage de l'IA
+- présentation des notions clés en IA 
 
-Pour rendre la session interactive: Google collab, lien vers jeu de données ouvert sur data gouv pour qu'ils puissent teste r
+### IA literacy : 2 kiosques (3 x 20 min) 
 
-
-# Atelier 1: Session Formation IA du 4 février matin 
-
-Lien vers [le support de présentation](https://speakerdeck.com/etalabia/pleniere-ami-a-2-4-fevrier-2020-matin)
-
-Lien vers le [Questionnaire de satisfaction](https://framaforms.org/questionnaire-satisfaction-pleniere-ami-ia-du-4-fevrier-1580823697)
-
-## Panorama IA (1h) 
-
-### Aperçu de cas d'usage IA 
-### Les notions clés en IA 
-
-#### Qu'est ce qu'un algo 
-#### Qu'est ce qu'un modèle 
-#### Différence supervise / non supervisé
-#### Focus sur le supervise 
-- un exemple simple: la régression linéaire 
-- train/test
-
-
-## IA literacy : 2 kiosques (3 x 20 min) 
-
-- Préparation des data, entraînement, choix de l'algo (Paul-Antoine)
+- Préparation des données entraînement, choix de l'algo (Paul-Antoine)
 - Réussir sa campagne d'annotation (Kim)
-- Evaluer le succès de votre projet IA - les indicateurs de performances (Julien)
+- Evaluer le succès de votre projet IA : les indicateurs de performances (Julien)
+
+### Atelier de préparation de l'arrivée du prestataire (20 min)
+
+### Supports
+
+- [les slides de présentation](https://speakerdeck.com/etalabia/pleniere-ami-a-2-4-fevrier-2020-matin)
+- [le questionnaire de satisfaction](https://framaforms.org/questionnaire-satisfaction-pleniere-ami-ia-du-4-fevrier-1580823697)
 
 
-## Atelier de préparation de l'arrivée du prestataire (20 min)
+## Session 2 : Vis ma vie de data scientist, 11 juin.
 
+L'objectif de cette formation est de vous faire découvrir le déroulement et les outils d'un projet de data science à travers trois cas d'études.
 
+Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse ci-dessous. Un [notebook](https://fr.wikipedia.org/wiki/Notebook_(programmation)) s'ouvrira alors dans [Google Colaboratory](https://colab.research.google.com/).
 
+- **Introduction :** [introduction aux outils du data scientist](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_introduction_jupyter_notebook.ipynb)
 
+- **Atelier 1 :** [introduction à la data visualisation](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb)
 
+- **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb)
 
-
-
+- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb)
