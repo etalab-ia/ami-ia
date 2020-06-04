@@ -6,7 +6,7 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 
 - **Introduction :** [introduction aux outils du data scientist](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_introduction_jupyter_notebook.ipynb)
 
-- **Atelier 1 :** [introduction à la data visualisation](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb)
+- **Atelier 1 :** [introduction à la data visualisation](https://github.com/etalab-ia/ami-ia/blob/master/session2/introduction_a_la_data_visualisation.ipynb)
 
 - **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb)
 
