@@ -16,3 +16,4 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 
 - nommer les notebooks uniformément
 - vérifier qu'il ne reste **aucun** chemin local (images + données)
+- nettoyer (vider) les cellules : ça garde le suspens de ce qui va se passer
