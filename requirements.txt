@@ -11,3 +11,6 @@ notebook
 geopandas
 descartes
 shapely
+nltk
+gensim
+pyLDAvis
