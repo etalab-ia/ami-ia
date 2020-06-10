@@ -17,3 +17,5 @@ pyLDAvis
 imblearn
 IPython
 pydotplus
+python-graphviz
+graphviz
