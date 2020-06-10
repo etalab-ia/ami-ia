@@ -11,9 +11,3 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 - **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/session2/introduction_au_NLP.ipynb) / [lien binder](https://mybinder.org/v2/gh/etalab-ia/ami-ia/5ce1eeed7a139fd7d53fa3f087d59543d846ad26?filepath=session2%2Fintroduction_au_NLP.ipynb)
 
 - **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/session2/introduction_au_machine_learning.ipynb) / [lien binder](https://mybinder.org/v2/gh/etalab-ia/ami-ia/5ce1eeed7a139fd7d53fa3f087d59543d846ad26?filepath=session2%2Fintroduction_au_machine_learning.ipynb)
-
-## TODO
-
-- nommer les notebooks uniformément
-- vérifier qu'il ne reste **aucun** chemin local (images + données)
-- nettoyer (vider) les outputs des cellules : ça garde le suspens de ce qui va se passer
