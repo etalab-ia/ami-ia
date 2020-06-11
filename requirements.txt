@@ -18,3 +18,4 @@ imblearn
 IPython
 pydotplus
 graphviz
+tensorflow
