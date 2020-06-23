@@ -30,7 +30,7 @@ Ce dépôt est ouvert aux contributions - vous pouvez :
 - poser une question sur le contenu en ouvrant une issue ;
 - *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration.
 
-Merci !
+Merci  !
 
 ## Licence
 
