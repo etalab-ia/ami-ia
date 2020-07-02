@@ -7,7 +7,7 @@ Le programme [AMI IA](https://www.modernisation.gouv.fr/home/ami-intelligence-ar
 
 ## Programme AMI
 
-- [Le planning](./accompagnement.md) des sessions de formation du programme
+- [Planning et ressources](./accompagnement.md) des sessions de formation du programme
 
 
 ## Ressources du programme
