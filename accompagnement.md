@@ -35,4 +35,4 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 
 - **Atelier 2 :** [Notebook introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb) et [Rediffusion de la session de formation](https://minio.lab.sspcloud.fr/strainel/spyrales_conf8_nlp_cada.mp4)
 
-- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb) et [Rediffusion de la session de formation](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1f8a35fb378e0a4d1cc0d26bec5454f8ceaf88ac-1591880656126)
+- **Atelier 3 :** [Notebook introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb) et [Rediffusion de la session de formation](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1f8a35fb378e0a4d1cc0d26bec5454f8ceaf88ac-1591880656126)
