@@ -29,10 +29,10 @@ L'objectif de cette formation est de vous faire découvrir le déroulement et le
 
 Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse ci-dessous. Un [notebook](https://fr.wikipedia.org/wiki/Notebook_(programmation)) s'ouvrira alors dans [Google Colaboratory](https://colab.research.google.com/).
 
-- **Introduction :** [introduction aux outils du data scientist](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_introduction_jupyter_notebook.ipynb)
+- **Introduction :** [Notebook introduction aux outils du data scientist](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_introduction_jupyter_notebook.ipynb) 
 
-- **Atelier 1 :** [introduction à la data visualisation](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb)
+- **Atelier 1 :** [Notebook introduction à la data visualisation](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb) et [Rediffusion de la session de formation](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=6f3acca485c398a1c9632e1efb38012581acde9c-1591880321574)
 
-- **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb)
+- **Atelier 2 :** [Notebook introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb) et [Rediffusion de la session de formation](https://minio.lab.sspcloud.fr/strainel/spyrales_conf8_nlp_cada.mp4)
 
-- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb)
+- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb) et [Rediffusion de la session de formation](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1f8a35fb378e0a4d1cc0d26bec5454f8ceaf88ac-1591880656126)
