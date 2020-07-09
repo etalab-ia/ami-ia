@@ -39,7 +39,7 @@ Pour commencer, cliquez simplement sur le lien de l'atelier qui vous intéresse 
 
 ## Session 3 : Explicabilité des algorithmes, 9 juillet 
 
-Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaillent sur la transparence des algorithmes publics et Clément Hénin, doctorant à l'INRIA dont les recherches portent sur l'explicabilité des algorithmes. 
+Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaillent sur la transparence des algorithmes publics au sein d'Etalab, et Clément Hénin, doctorant à l'INRIA dont les recherches portent sur l'explicabilité des algorithmes. 
 
 Programme : 
 - Fondements théoriques de l'explicabilité
