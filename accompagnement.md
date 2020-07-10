@@ -47,7 +47,7 @@ Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaill
 - Conclusion et mise en commun 
 
 #### Ressources : 
-- [Le support de présentation](./images/AMI_IA_2_Atelier_#3_9juillet2020.pdf)
+- [Le support de présentation](https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf)
 - [L'enregistrement vidéo de la session](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544)
 - [Matrice d'explication des algorithmes à remplir par groupe](./images/matrice_explication.docx)
 - [Un exemple de matrice d'explication remplie](./images/matrice_explication_exemple_score_coeur.docx)
