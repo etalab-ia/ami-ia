@@ -12,4 +12,4 @@ Si vous n'avez pas de compte Google, vous pouvez aller sur [Binder](https://mybi
 
 - **Atelier 2 :** [introduction au traîtement du langage naturel](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/session2/introduction_au_NLP.ipynb) / [lien binder](https://mybinder.org/v2/gh/etalab-ia/ami-ia/e118e51a996f374178fe7700629832420b2a5365)
 
-- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/session2/introduction_au_machine_learning.ipynb) / [lien binder](https://mybinder.org/v2/gh/etalab-ia/ami-ia/e118e51a996f374178fe7700629832420b2a5365)
+- **Atelier 3 :** [introduction au machine learning](https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/session2/introduction_au_machine_learning.ipynb) / [lien binder](https://mybinder.org/v2/gh/etalab-ia/ami-ia/e118e51a996f374178fe7700629832420b2a5365) / [lien video](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=1f8a35fb378e0a4d1cc0d26bec5454f8ceaf88ac-1591880656126)
