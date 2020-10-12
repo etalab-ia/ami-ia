@@ -76,7 +76,7 @@ En complément, voici quelques ressources en lien avec l’atelier :
 - [L’article du Défenseur des droits](https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/synth-algos-num-05.06.20.pdf)
 - [Livre blanc de la commission européenne](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf)
 - [Lignes directrices de la commission européenne pour une IA digne de confiance](https://op.europa.eu/fr/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/prodSystem-cellar/language-fr/format-PDF)
-- [Le dépôt de Philippe Besse incluant les exemples/cas pratiques présentés en plénière](https://github.com/wikistat/Fair-ML-4-Ethical-AI et l’article associé https://hal.archives-ouvertes.fr/hal-02616963)
+- [Le dépôt de Philippe Besse incluant les exemples/cas pratiques présentés en plénière](https://github.com/wikistat/Fair-ML-4-Ethical-AI) et [l’article associé](https://hal.archives-ouvertes.fr/hal-02616963)
 
  
 
