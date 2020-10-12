@@ -59,11 +59,11 @@ Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaill
 
 #### Ressources
 
+ 
+ - Le lien de rediffusion de la séance (partie en plénière): https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613 
+
 Ci-dessous, les liens pour consulter ou télécharger les 3 présentations qui ont été faites en plénière :
- 
- 
- - Le lien de rediffusion de la séance: https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613 
- 
+  
 - L’introduction par Valérie Fontaine et Gaëtan Goldberg du Défenseur des droits : https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd
  
 - La présentation de Philippe Besse : https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse
