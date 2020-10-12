@@ -60,23 +60,23 @@ Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaill
 #### Ressources
 
  
- - Le lien de rediffusion de la séance (partie en plénière): https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613 
+ - [Le lien de rediffusion de la séance](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613) (partie en plénière)
 
 Ci-dessous, les liens pour consulter ou télécharger les 3 présentations qui ont été faites en plénière :
   
-- L’introduction par Valérie Fontaine et Gaëtan Goldberg du Défenseur des droits : https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd
+- [L’introduction par Valérie Fontaine et Gaëtan Goldberg du Défenseur des droits](https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd)
  
-- La présentation de Philippe Besse : https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse
+- [La présentation de Philippe Besse](https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse)
  
-- La présentation de Jean-Marie John-Mathews https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews
+- [La présentation de Jean-Marie John-Mathews](https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews)
 
-- Le questionnaire d'identication des biais dans votre projet
+- [Le questionnaire d'identication des biais](https://github.com/etalab-ia/ami-ia/blob/master/images/questionnaire%20biais%20AMI%20IA.docx)
  
 En complément, voici quelques ressources en lien avec l’atelier :
-- L’article du Défenseur des droits : https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/synth-algos-num-05.06.20.pdf
-- Livre blanc de la commission européenne : https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf
-Lignes directrices de la commission européenne pour une IA digne de confiance : https://op.europa.eu/fr/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/prodSystem-cellar/language-fr/format-PDF
-- Le dépôt de Philippe Besse incluant les exemples/cas pratiques présentés en plénière : https://github.com/wikistat/Fair-ML-4-Ethical-AI et l’article associé https://hal.archives-ouvertes.fr/hal-02616963
+- [L’article du Défenseur des droits](https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/synth-algos-num-05.06.20.pdf)
+- [Livre blanc de la commission européenne](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf)
+- [Lignes directrices de la commission européenne pour une IA digne de confiance](https://op.europa.eu/fr/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/prodSystem-cellar/language-fr/format-PDF)
+- [Le dépôt de Philippe Besse incluant les exemples/cas pratiques présentés en plénière](https://github.com/wikistat/Fair-ML-4-Ethical-AI et l’article associé https://hal.archives-ouvertes.fr/hal-02616963)
 
  
 
